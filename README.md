@@ -22,13 +22,6 @@ It replicates the look and feel of Amazon’s homepage and some product sections
 | HTML5    | Page structure & semantics      |
 | CSS3     | Layout, styling, responsiveness |
 
----
-
-## 📷 Screenshots
-
-| Desktop View                   | Mobile View                  |
-| ------------------------------ | ---------------------------- |
-| ![Desktop](assets/desktop.png) | ![Mobile](assets/mobile.png) |
 
 ---
 
